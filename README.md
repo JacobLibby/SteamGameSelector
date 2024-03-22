@@ -2,10 +2,13 @@
 A full-stack web-app that enables two users to determine a game in common on Steam that they wish to play
 
 # Stack
-* React, Redux, Bootstrap, Javascript, HTML, CSS
-* Google Firebase, Google Auth
-* Steam API
-* Figma
+| System | Technologies |
+| --- | --- |
+| Front-end | React, Redux, Bootstrap, Javascript, HTML, CSS |
+| Back-end | Javascript, Google Firebase |
+| Log-in? | Google Auth |
+| Functionalities | Steam API |
+| Planning | Figma, Notion |
 
 # Current Status
 This project is currently in the ideation and brainstorm stage
