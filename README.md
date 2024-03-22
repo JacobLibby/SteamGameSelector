@@ -20,7 +20,7 @@ A full-stack web-app that enables two users to determine a game in common on Ste
 | --- | --- |
 | Front-end | React, Redux, Bootstrap, Javascript, HTML, CSS |
 | Back-end | Node.JS, Express.JS, Google Firebase, API? |
-| Log-in | Google Auth |
+| Log-in | Google Auth or OpenID |
 | Functionalities | Steam API |
 | Planning | Figma, Notion, Gitmind |
 
@@ -36,11 +36,13 @@ A full-stack web-app that enables two users to determine a game in common on Ste
 <br><br><br>
 
 
+
 # Current Status
 This project is currently in the ideation and brainstorm stage <br>
 - [x] Scope - plan stack and functionalities 
 - [ ] Database Modeling
-     - [ ] Design Schema - Gitmind
+     - [x] Design Schema - Gitmind
+     ![alt text](https://github.com/JacobLibby/SteamGameSelector/blob/main/SteamGameSelector_Backend.jpg?raw=true)
      - [ ] Create Firebase project
      - [ ] Create Firebase Database
 - [ ] Design API
