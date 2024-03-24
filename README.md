@@ -8,6 +8,8 @@ A full-stack web-app that enables two users to determine a game in common on Ste
   * Hosting
   * Joining
   * \# of members, solo?  
+  * save lobbies, able to re-run?
+  * how to synchronize swiping? asynchronous and wait for results if first to finish?
 * Swiping System
   * BEFORE, Select game preferences: genre, \# of players, required system compatibility
   * Range of preference: Dislike, meh, like, love
