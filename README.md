@@ -45,7 +45,7 @@ This project is currently in the ideation and brainstorm stage <br>
 - [ ] Database Modeling
      - [x] Design Schema - Gitmind
      ![alt text](https://github.com/JacobLibby/SteamGameSelector/blob/main/SteamGameSelector_Backend.jpg?raw=true)
-     - [ ] Create Firebase project
+     - [x] Create Firebase project
      - [ ] Create Firebase Database
 - [ ] Design API
 - [ ] Backend Build
