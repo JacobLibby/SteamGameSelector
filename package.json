@@ -1,0 +1,15 @@
+{
+  "name": "steamgameselector",
+  "version": "1.0.0",
+  "description": "A full-stack web-app that enables two users to determine a game in common on Steam that they wish to play",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
