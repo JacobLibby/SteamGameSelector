@@ -21,7 +21,7 @@ A full-stack web-app that enables two users to determine a game in common on Ste
 | System | Technologies |
 | --- | --- |
 | Front-end | React, Redux, Bootstrap, Javascript, HTML, CSS |
-| Back-end | Node.JS, Express.JS, Google Firebase, API? |
+| Back-end | Node.JS, Express, Google Firebase, Insomnia |
 | Log-in | Google Auth or OpenID |
 | Functionalities | Steam API |
 | Planning | Figma, Notion, Gitmind |
@@ -48,6 +48,7 @@ This project is currently in the ideation and brainstorm stage <br>
      - [x] Create Firebase project
      - [ ] Create Firebase Database
 - [ ] Design API
+     - [ ] Set up Insomnia 
 - [ ] Backend Build
 - [ ] Backend Test
 - [ ] Sketch and design frontend with Figma
