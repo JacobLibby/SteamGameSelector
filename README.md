@@ -48,7 +48,10 @@ This project is currently in the ideation and brainstorm stage <br>
      - [x] Create Firebase project
      - [ ] Create Firebase Database
 - [ ] Design API
-     - [ ] Set up Insomnia 
+     - [x] Set up Insomnia 
+     - [c] Implement boilerplate API
+     - [ ] Connect API to firebase
+     - [ ] Flesh out desired API functionality
 - [ ] Backend Build
 - [ ] Backend Test
 - [ ] Sketch and design frontend with Figma
