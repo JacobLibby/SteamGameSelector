@@ -46,10 +46,10 @@ This project is currently in the ideation and brainstorm stage <br>
      - [x] Design Schema - Gitmind
      ![alt text](https://github.com/JacobLibby/SteamGameSelector/blob/main/SteamGameSelector_Backend.jpg?raw=true)
      - [x] Create Firebase project
-     - [ ] Create Firebase Database
+     - [x] Create Firebase Realtime Database
 - [ ] Design API
      - [x] Set up Insomnia 
-     - [c] Implement boilerplate API
+     - [x] Implement boilerplate API
      - [ ] Connect API to firebase
      - [ ] Flesh out desired API functionality
 - [ ] Backend Build
